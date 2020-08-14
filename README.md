@@ -87,7 +87,6 @@ We have used pretrained YOLO model for detecting animals
  
 <img width="530" alt="jhk" src="https://user-images.githubusercontent.com/43816262/89117224-dbce7380-d4b9-11ea-98ae-28d43c88b64d.png">
 
-
 ### So How Everything Works
 So everything starts when we get Images at server either from Drones or Users using our app 
 Our ML Model checks for garbage in Image and if garbage is found it saves image in Database
@@ -106,14 +105,11 @@ Anyone can see NGOs profile to see their previous works in cleaning India and ra
 Here is the image of heat map which is live on our website   
      
 <img src="ReadmeAssets/HeatMap.png"></img>
+
 ## Future Scope
 
-Presently our website is deployed on  AWS but it can comfortably be hosted on NICSI Cloud service of the Government in accordance with the data localization policy
-
-
+Presently our website is deployed on  AWS but it can comfortably be hosted on NICSI Cloud service of the Government in accordance with the data localization policy.
 Vehicular Cameras will be deployed for image collection for cost reduction and greater efficency.
-
-
 
 ## Deployment
 
@@ -137,21 +133,6 @@ Also have a look at our app
 * HTML5  <a href=""><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png"></a>
 * SCSS(CSS)  <a href=""><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"></a>
 * JavaScript(jQuery)  <a href=""><img height="30" src="https://pluspng.com/img-png/logo-javascript-png-file-javascript-logo-png-1052.png"></a>
-
-## Auth for checking our website
-For App    
-Username -> aryan    
-Password -> 29062000
-
-As NGO    
-Username -> CFSCC    
-Password -> Aryan@2000
-
-As Government    
-Username -> Governement12    
-Password -> Aryan@2000
-
-> These are only provided for easily checking working of website by inspectors and you can try registering with a valid email too
 
 ## Authors
 
