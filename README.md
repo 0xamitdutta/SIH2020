@@ -1,5 +1,14 @@
-# Project Visudh
-> Tacking India'a Waste Problem
+<h1 align="center">Project Visudh</h1>
+
+> <h2 align="center">Tacking India'a Waste Problem using AI</h2>
+
+<p align="center">
+<img src="https://img.shields.io/github/issues/Amitdutta7/Diaries">
+<img src="https://img.shields.io/github/forks/Amitdutta7/Diaries">
+<img src="https://img.shields.io/github/stars/Amitdutta7/Diaries">
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAmitdutta7%2FDiaries%2F">
     
 ![](ReadmeAssets/1.png)
 
