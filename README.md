@@ -1,6 +1,6 @@
 <h1 align="center">Project Visudh</h1>
 
-> <h2 align="center">Tackling India'a Waste Problem using AI</h2>
+> <h2 align="center">Tackling India's Waste Problem using AI</h2>
 
 <p align="center">
 <img src="https://img.shields.io/github/issues/Amitdutta7/Diaries">
