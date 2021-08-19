@@ -16,15 +16,7 @@ class AppUser(models.Model):
     def __str__(self):
         return self.user.username
 
-
-class UserContributionModel(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
-    contribution = models.PositiveSmallIntegerField(default=0)
-    workCompleted = models.PositiveSmallIntegerField(
-        default=0)  # Specific for NGO
-    field_history = FieldHistoryTracker(['contribution'])
-
-
+    
 class NGOUser(models.Model):
     name = models.CharField(max_length=30)
     email = models.EmailField()
@@ -35,6 +27,15 @@ class NGOUser(models.Model):
 
     def __str__(self):
         return self.name
+
+    
+class UserContributionModel(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    contribution = models.PositiveSmallIntegerField(default=0)
+    workCompleted = models.PositiveSmallIntegerField(
+        default=0)  # Specific for NGO
+    field_history = FieldHistoryTracker(['contribution'])
+
 
 
 class ActiveArea(models.Model):
